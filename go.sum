@@ -1,0 +1,4 @@
+github.com/DEEJ4Y/scheduler v1.0.0 h1:DsTNygsjibW9/Df/R5XkcZeiHhiyT/RE3Ynb/UMgtgk=
+github.com/DEEJ4Y/scheduler v1.0.0/go.mod h1:bc7mnZ4KYW1KuN/dcSvnYhay72f9RmyWNMqmhrf5sL4=
+github.com/robfig/cron/v3 v3.0.1 h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=
+github.com/robfig/cron/v3 v3.0.1/go.mod h1:eQICP3HwyT7UooqI/z+Ov+PtYAWygg1TEWWzGIFLtro=
